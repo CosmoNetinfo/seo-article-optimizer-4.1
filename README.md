@@ -34,7 +34,11 @@
 
 **SEO Article Optimizer** è un'applicazione desktop progettata per copywriter, blogger e specialisti SEO che desiderano massimizzare il posizionamento dei loro contenuti sui motori di ricerca. Sfruttando l'intelligenza artificiale avanzata di Groq (Llama 3), l'applicazione analizza e ottimizza i tuoi testi in tempo reale, generando automaticamente meta tag perfetti e suggerimenti SEO professionali.
 
+### 🎬 Demo
 
+<img width="1216" height="859" alt="Screenshot 2025-12-03 234125" src="https://github.com/user-attachments/assets/66ebd8e8-a339-415f-9843-20121f5ad7d5" />
+<img width="1201" height="823" alt="Screenshot 2025-12-04 000118" src="https://github.com/user-attachments/assets/b7912745-8baf-4201-a64f-eb26773e586f" />
+<img width="1196" height="834" alt="Screenshot 2025-12-04 000151" src="https://github.com/user-attachments/assets/507ed63f-a913-4a68-8cce-ff27bc9f35f6" />
 
 ---
 
