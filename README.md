@@ -9,7 +9,7 @@
 
 **Un potente strumento desktop per ottimizzare i tuoi contenuti SEO con l'intelligenza artificiale**
 
-[Download]() • [Documentazione](#-guida-rapida) • [Report Bug](https://github.com/CosmoNetinfo/seo-article-optimizer/issues)
+[Download](https://github.com/CosmoNetinfo/seo-article-optimizer/releases/tag/4.1) • [Documentazione](#-guida-rapida) • [Report Bug](https://github.com/CosmoNetinfo/seo-article-optimizer/issues)
 
 </div>
 
